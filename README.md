@@ -22,6 +22,8 @@ do estabelecimento; Vandas realizadas no caixa; Consumo dos usuários no dispens
 
 O sistema realiza a comunicação com o mesmo banco de dados do caixa e do dispenser, assim atualizando as informações ao mesmo instante que os demais sistemas.
 
+## Layout
+![layout](assets/layout1.png) ![layout](assets/layout2.png) ![layout](assets/layout3.png) ![layout](assets/layout4.png) ![layout](assets/layout5.png)
 
 ### Software
 - Linguagem de programação: Php 8
